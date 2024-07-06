@@ -1,0 +1,34 @@
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_Trangchu.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\bin\Debug\QLSach.mdf
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\bin\Debug\QLSach_log.ldf
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_Sach.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_DangNhap.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_TheLoai.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_TacGia.resources
+F:\Học Tập\Lập Trình Ứng Dụng .NET\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_NXB.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\bin\Debug\QLSach.mdf
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\bin\Debug\QLSach_log.ldf
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_DangNhap.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_NXB.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_Sach.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_TacGia.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_TheLoai.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frm_Trangchu.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+C:\lập trình.net\QuanLySach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
